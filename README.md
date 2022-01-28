@@ -1,1 +1,1 @@
-# vuepress-dev-bug
+# Hello VuePress
